@@ -143,6 +143,12 @@ It is not designed for real-world, commercial, or investigative use.
 
 ---
 
+## 📁 Project Files
+
+- `Search_Engine_code.ipynb` — Notebook with the web mining and preprocessing pipeline.
+- `app.py` — Streamlit application for RAG chatbot.
+
+
 ## Technologies Used
 - Python
 - spaCy
