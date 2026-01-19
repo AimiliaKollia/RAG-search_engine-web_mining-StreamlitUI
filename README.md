@@ -2,9 +2,9 @@
 Web mining, information retrieval (BM25+, TF-IDF, embeddings, semantic search with reranking) and RAG pipeline with Streamlit UI using Wikipedia data.  
 
 ## Team
-- Aimilia Kollia
-- Nancy Labropoulou
-- Kyriaki Skiada
+- AimiliaKollia
+- NancyLabropoulou
+- KyriakiSkiada
 
 - ## Overview
 This project implements a full **Search Engine and Web Mining pipeline** that combines classical information retrieval techniques with modern semantic search and **Retrieval-Augmented Generation (RAG)**.  
