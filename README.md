@@ -30,6 +30,8 @@ The pipeline integrates:
 - 🌐 **Interactive Streamlit Application**
 - 📊 **Transparent Debug Panels** showing retrieval and filtering steps
 
+
+DISCLAIMER! You will need a valid Hugging Face Access Token to files and also access to a Qdrant database.
 ---
 
 ## Data Collection
